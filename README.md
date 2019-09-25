@@ -1,6 +1,8 @@
 # pxt-custom-action-blocks
+## David Sparks   September 2019
+### Custom blocks that perform actions in MakeCode projects. 
 
-
+This repository shows how to create custom blocks using the MakeCode editor to  
 
 ## TODO
 
